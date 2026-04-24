@@ -1,1 +1,15 @@
-# CS-360
+# CS 360 Mobile App Portfolio Artifact Reflection
+
+For this course, I developed a mobile app as part of Project Three and submitted the completed app code design ZIP file as a portfolio artifact. The goal of the app was to create a functional mobile application that addressed user needs through clear design, useful features, and a user-centered interface. This project helped me better understand the full mobile app development process, including planning, UI design, coding, testing, and preparing an app for possible launch.
+
+The requirements and goals of the app were to create a working mobile application that supported the needs of the intended users. The app needed to be easy to navigate, organized, and functional. The user needs I focused on were accessibility, clear screen layouts, simple navigation, and features that made sense for the purpose of the app. I wanted the app to feel straightforward so users could understand what to do without confusion.
+
+Several screens and features were necessary to support the user experience. The app needed a clear home or main screen, organized navigation, input or interaction areas, and screens that allowed users to complete the main tasks of the app. My UI designs kept users in mind by focusing on readability, spacing, button placement, and consistency between screens. I think my designs were successful because they created a simple layout that made the app easier to use and understand.
+
+My coding process started with reviewing the project requirements and breaking the app into smaller parts. I worked on one feature at a time and tested each part as I added it. This helped me avoid becoming overwhelmed and made it easier to find problems. In the future, I can use the same strategy by planning first, building in sections, and testing frequently throughout development.
+
+To test the app, I checked whether the main features worked as expected and looked for errors in the layout, navigation, and functionality. This testing process was important because it showed whether the app actually met the project requirements. It also revealed areas where I needed to make adjustments or improve the user experience. Testing helped me understand that an app may appear complete, but it still needs to be reviewed carefully before it is ready for users.
+
+Throughout the full design and development process, I had to innovate and problem-solve when parts of the app did not work the way I expected. One challenge was making sure the design and functionality worked together. It was not enough for the app to look organized; it also had to function correctly. I overcame this by revisiting the requirements, testing different solutions, and making changes until the app worked more effectively.
+
+One specific component of the mobile app where I was particularly successful was creating a user-centered interface. I demonstrated my knowledge by designing screens that were clear, organized, and connected to the needs of the user. This project gave me more confidence in mobile app development and showed me how important it is to combine design, coding, and testing into one complete development process.
